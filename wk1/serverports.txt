@@ -1,0 +1,22 @@
+Fellipe C.T.C - 101497831
+
+1) What is the definition of server port?
+A communication endpoint, identified by a unique number, that directs network traffic to specific applications or services on a server, acting like a virtual "door" for different data types.
+
+2) What is server port range?
+0-65535
+
+3) How many bits does number above represent?
+16 bits
+
+4) State 10 common server ports
+8080
+3000
+5432
+27017
+21
+22
+25
+80
+443
+3306
